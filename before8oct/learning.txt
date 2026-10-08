@@ -1,0 +1,6 @@
+what i learnt is that ---------------
+
+hash maps: hash map could only store hashable data structure 
+    
+hashable data-structure are : ->  string, numbers, tupls 
+not hashable: -> lists, dictionary   
